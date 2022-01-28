@@ -5,3 +5,5 @@
 ![](https://img.shields.io/github/watchers/elo1lson/elo1lson?label=Watch)
 ![](https://visitor-badge.laobi.icu/badge?page_id=elelo1lson.Open-Bot_Os)
 [![Github](https://img.shields.io/github/followers/elo1lson?label=Follow&style=social)](https://github.com/elo1lson)
+
+#### Tenho 17 anos e sou um garoto que gosta de programação, atualmente faço códigos por diversão, dedico a maior parte do meu tempo em meus projetos, sonho um dia me tornar um progamador
