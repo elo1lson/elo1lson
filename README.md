@@ -7,4 +7,4 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=elelo1lson.Open-Bot_Os)
 [![Github](https://img.shields.io/github/followers/elo1lson?label=Follow&style=social)](https://github.com/elo1lson)
 
-#### I'm 17 years old, and I'm a kid who likes programming, I currently code for fun, I dedicate most of my time to my projects, I dream of one day becoming a programmer
+**I'm 17 years old, and I'm a kid who likes programming, I currently code for fun, I dedicate most of my time to my projects, I dream of one day becoming a programmer**
