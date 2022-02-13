@@ -10,8 +10,9 @@
 ![](https://img.shields.io/github/watchers/elo1lson/elo1lson?label=Watch)
 
 ## Fascinado por programação
-<p>Tenho 17 anos, e sou um estudante de programaçã, atualmente dedico a maior parte do meu tempo estudando, e criando a tomori(meu bot do discord)</p>
+<p>Tenho 17 anos, e sou um estudante de programação, atualmente dedico a maior parte do meu tempo estudando, e em meus projeto pessoal(meu bot do discord)</p>
 <p>Comecei a estudar programação por incentivo próprio, com objetivo de fazer um jogo em html</p>
+
 ~~~
 console.log("Hello World")
 ~~~
