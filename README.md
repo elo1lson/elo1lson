@@ -1,4 +1,4 @@
-**__A little about myself__**
+**__Um pouco sobre mim__**
 
 
 [![](https://github-readme-stats.vercel.app/api?username=elo1lson&show_icons=true&count_private=true&theme=algolia&title_color=E51818&icon_color=00FF13&include_all_commits=true)](https://github.com/elo1lson)
@@ -10,8 +10,9 @@
 ![](https://img.shields.io/github/watchers/elo1lson/elo1lson?label=Watch)
 
 ## Fascinado por programação
-<p>Tenho 17 anos, e sou um estudante de programação, atualmente dedico a maior parte do meu tempo estudando, e em meus projeto pessoal(meu bot do discord)</p>
-<p>Comecei a estudar programação por incentivo próprio, com objetivo de fazer um jogo em html</p>
+**Tenho 17 anos, e sou um estudante de programação, atualmente dedico a maior parte do meu tempo estudando, e em meus projeto pessoal(meu bot do discord)**
+
+**Comecei a estudar programação por incentivo próprio, com objetivo de fazer um jogo em html**
 
 ~~~
 console.log("Hello World")
