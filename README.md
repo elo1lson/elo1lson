@@ -9,4 +9,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=elo1lson.elo1lson)
 ![](https://img.shields.io/github/watchers/elo1lson/elo1lson?label=Watch)
 
-**I'm 17 years old, and I'm a kid who likes programming, I currently code for fun, I dedicate most of my time to my projects, I dream of one day becoming a programmer**
+## Fascinado por programação
+~~~
+console.log("Hello World")
+~~~
+
