@@ -9,11 +9,14 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=elo1lson.elo1lson)
 ![](https://img.shields.io/github/watchers/elo1lson/elo1lson?label=Watch)
 
-## Fascinado por programação
-**Tenho 17 anos, e sou um estudante de programação, atualmente dedico a maior parte do meu tempo estudando, e em meus projeto pessoal(meu bot do discord)**
+### Fascinado por programação
+Tenho 17 anos, e sou um estudante de programação, atualmente dedico a maior parte do meu tempo estudando, e em meus projeto pessoal(meu bot do discord)
 
-**Comecei a estudar programação por incentivo próprio, com objetivo de fazer um jogo em html**
+Comecei a estudar programação por incentivo próprio, com objetivo de fazer um jogo em html
 
+### Futuro
+
+Pretendo me tornar um desenvolvedor back end, e talvez mais na frente ainda, talvez full stack
 ~~~
 console.log("Hello World")
 ~~~
