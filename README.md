@@ -4,7 +4,8 @@
 ![](https://img.shields.io/github/watchers/elo1lson/elo1lson?label=Watch)
 ~~~
 Hey! Sou um estudante de JavaScript!
-Gosto de codar na maior parte do tempo!
+Gosto de codar
+
 Estou dedicando a maior parte do meu tempo codando
 ~~~
 ~~~js
