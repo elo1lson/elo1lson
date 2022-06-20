@@ -7,22 +7,13 @@
 
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Passo a maior parte do tempo estudando, e progamando, atualmente estou em busca do meu primeiro emprego
 
 ### Mais sobre mim
 
 <img align="center" width="80%" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
-
-
-
-```js
-var name =  Eloilson
-var age = 18
-var dream = "Tornar-se um desenvolvedor Júnior"
-var languages = ["JavaScript"]
-
-```
 ### **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
