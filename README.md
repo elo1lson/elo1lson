@@ -1,3 +1,4 @@
+Passionate about computers and programming! the best thing god gave me was the gift of programming!
 
 ```c
 #include <stdio.h>
