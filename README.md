@@ -1,21 +1,21 @@
 
+```c
+#include <stdio.h>
+
+void main()
+{
+printf("Hi! I'm bobi, i'm here, looking for a job!;
+
+return void;
+}
+
+```
 
 <div align="center">
 
-### Hello everyone 👋
-### Hola a todos 👋
-### 皆さんこんにちは 👋
-### всем привет 👋
-### Hallo zusammen 👋
-### Bonjour à tous 👋
-```
-
-```
-### Stats 🙌
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elo1lson&langs_count=8&layout=compact&theme=radical)
 
-### Skills 🙌
 </br>
 
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
