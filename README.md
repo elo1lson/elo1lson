@@ -1,3 +1,7 @@
+
+
+<div align="center">
+
 ### Hello everyone 👋
 ### Hola a todos 👋
 ### 皆さんこんにちは 👋
@@ -6,17 +10,13 @@
 ### Bonjour à tous 👋
 ```
 
-
 ```
-
-
-<div align="center">
+### Stats 🙌
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elo1lson&langs_count=8&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elo1lson&show_icons=false&theme=radical)
-
-### Skills
+### Skills 🙌
+</br>
 
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
