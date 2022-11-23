@@ -1,5 +1,10 @@
 Passionate about computers and programming! the best thing god gave me was the gift of programming!
 
+</br>
+</br>
+
+![](https://media.tenor.com/1KSuHi0XOIgAAAAi/xd.gif)
+
 ```c
 #include <stdio.h>
 
