@@ -3,7 +3,7 @@ Passionate about computers and programming! the best thing god gave me was the g
 </br>
 </br>
 
-![](https://media.tenor.com/1KSuHi0XOIgAAAAi/xd.gif)
+![](https://external-preview.redd.it/76KI_ztaLr9QvFD3AEtHDIHksWlHp4BXjFEGYdp3ZW0.png?auto=webp&s=a9b54868c5faeaecc9cd4a61e4be27da4dfc614c)
 
 ```c
 #include <stdio.h>
