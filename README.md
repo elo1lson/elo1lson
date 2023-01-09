@@ -10,7 +10,7 @@ Passionate about computers and programming! the best thing god gave me was the g
 
 void main()
 {
-printf("Hi! I'm bobi, i'm here, looking for a job!;
+printf("Hi! I'm bobi😟");
 
 return void;
 }
