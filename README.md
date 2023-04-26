@@ -7,7 +7,7 @@
 
 void main()
 {
-printf("Hi! I'm bobi😟");
+printf("Hi!");
 
 return void;
 }
