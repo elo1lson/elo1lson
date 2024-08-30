@@ -2,14 +2,9 @@
 <!--
 ![](https://external-preview.redd.it/76KI_ztaLr9QvFD3AEtHDIHksWlHp4BXjFEGYdp3ZW0.png?auto=webp&s=a9b54868c5faeaecc9cd4a61e4be27da4dfc614c)
 -->
-```c
-#include <stdio.h>
-
-void main()
-{
-printf("Hi!");
-
-return void;
+```rust
+pub fn life(me: Person<Me>){
+  dream(me)
 }
 
 ```
