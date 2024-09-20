@@ -15,7 +15,14 @@ pub fn life(me: Person<Me>){
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elo1lson&langs_count=8&layout=compact&theme=radical)
 
 </br>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{elo1lson}/count.svg" /></p> 
+<br>
+</div>
+<div>
 
+  
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
